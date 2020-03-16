@@ -16,8 +16,8 @@ let fizzBuzz = function(n) {
         output = i
     }
       $(ul).append(`<li>${output}</li>`);
+      
     }
-    return output;
 }
 
 
